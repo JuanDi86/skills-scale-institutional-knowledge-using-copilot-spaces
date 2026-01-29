@@ -100,7 +100,7 @@ Project status, documentation, and decisions are maintained in the project repos
 
 ### Escalation Paths
 Clear escalation paths ensure blockers and issues are addressed promptly:
-- Team-level → PM → Product Manager (PdM) → Sponsor
+- Team-level → PM → Product Lead → Sponsor
 - Security incidents follow the security incident runbook
 
 ### Communication Templates

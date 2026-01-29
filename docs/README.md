@@ -10,7 +10,7 @@ OctoAcme follows an **iterative, customer-first approach** to project delivery. 
 
 - **Customer-first**: Prioritize customer value and usability
 - **Iterative delivery**: Deliver small, testable increments
-- **Clear ownership**: Each project has a named Project Manager (PM) and Product Manager (PdM)
+- **Clear ownership**: Each project has a named Project Manager (PM) and Product Manager (PdM, also called "Product Lead")
 - **Data-informed decisions**: Measure impact and iterate based on evidence
 - **Psychological safety**: Encourage feedback and learning
 
@@ -75,7 +75,7 @@ After each sprint, release, or milestone, we conduct retrospectives to identify 
 Coordinates delivery activities, manages schedules, risks, and communications. Facilitates meetings and ensures transparency across stakeholders.
 
 ### Product Manager (PdM)
-Defines what should be built to deliver customer and business value. Owns product vision, prioritizes the backlog, and measures outcomes. Also referred to as "Product Lead" in some contexts.
+Defines what should be built to deliver customer and business value. Owns product vision, prioritizes the backlog, and measures outcomes.
 
 ### Developers
 Design, build, test, and deliver software components. Write tests, participate in code reviews, and help identify technical risks.

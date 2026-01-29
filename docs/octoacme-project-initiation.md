@@ -42,7 +42,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning? (Sponsor and Product Lead decide)
 - [ ] Create repo or project board skeleton (DevOps Engineer / Tech Lead)
 - [ ] Add initial artifacts to repo (docs/ or .copilot/) — Project Manager
-- [ ] Identify and onboard key team members (all roles) — Project Manager coordinates
+- [ ] Identify and onboard key team members based on project needs — Project Manager coordinates
 
 ## Decision Gate
 Move to planning when:

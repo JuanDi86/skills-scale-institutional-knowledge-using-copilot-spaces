@@ -80,11 +80,22 @@ Defines what should be built to deliver customer and business value. Owns produc
 ### Developers
 Design, build, test, and deliver software components. Write tests, participate in code reviews, and help identify technical risks.
 
+### UX Designer
+Ensures user needs and usability are incorporated throughout the project lifecycle. Conducts user research, delivers wireframes and prototypes, and validates designs through user testing.
+
+### DevOps Engineer
+Manages infrastructure automation, CI/CD pipelines, and deployment reliability. Enables teams to deliver software efficiently and safely.
+
+### Data Analyst
+Transforms data into actionable insights for the team. Supports data-driven decision making across product and project initiatives.
+
 ### QA/Testing
 Validate quality and acceptance criteria through manual and automated testing approaches.
 
 ### Stakeholders
 Provide inputs, approvals, and feedback throughout the project lifecycle.
+
+For detailed role definitions, see **[Roles & Personas](octoacme-roles-and-personas.md)**.
 
 ## Communication Strategies
 

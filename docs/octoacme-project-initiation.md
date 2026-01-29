@@ -28,13 +28,21 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Product Manager:
+  - Project Manager:
+  - Tech Lead / Developers:
+  - UX Designer (if applicable):
+  - DevOps Engineer:
+  - QA Lead:
+  - Data Analyst (if applicable):
 
 ## Initiation Checklist
-- [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
-- [ ] Decision: Approve to move into planning?
-- [ ] Create repo or project board skeleton
-- [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] One-pager completed and reviewed by Product Lead (Product Manager owns)
+- [ ] Sponsor / Stakeholder alignment (email or meeting) — Project Manager coordinates
+- [ ] Decision: Approve to move into planning? (Sponsor and Product Lead decide)
+- [ ] Create repo or project board skeleton (DevOps Engineer / Tech Lead)
+- [ ] Add initial artifacts to repo (docs/ or .copilot/) — Project Manager
+- [ ] Identify and onboard key team members based on project needs — Project Manager coordinates
 
 ## Decision Gate
 Move to planning when:

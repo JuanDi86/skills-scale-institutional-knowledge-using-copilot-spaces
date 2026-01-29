@@ -74,8 +74,8 @@ After each sprint, release, or milestone, we conduct retrospectives to identify 
 ### Project Manager (PM)
 Coordinates delivery activities, manages schedules, risks, and communications. Facilitates meetings and ensures transparency across stakeholders.
 
-### Product Manager (PdM)
-Defines what should be built to deliver customer and business value. Owns product vision, prioritizes the backlog, and measures outcomes.
+### Product Manager (PdM) / Product Lead
+Defines what should be built to deliver customer and business value. Owns product vision, prioritizes the backlog, and measures outcomes. The terms "Product Manager (PdM)" and "Product Lead" are used interchangeably in our documentation.
 
 ### Developers
 Design, build, test, and deliver software components. Write tests, participate in code reviews, and help identify technical risks.
